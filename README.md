@@ -1,5 +1,9 @@
 # 🛒 Superstore Sales Dashboard 
 
+<img width="749" height="470" alt="dashboard-preview" src="https://github.com/user-attachments/assets/df455547-bffd-41a1-b185-7e69430196cb" />
+
+
+
 **An end-to-end interactive business intelligence dashboard built entirely in Microsoft Excel — no Power BI, no Tableau, no code.**
 
 ---
